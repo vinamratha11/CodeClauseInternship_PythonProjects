@@ -1,4 +1,4 @@
-# CodeClauseInternship_PythonProjects
+# PythonProjects
 CODE CLAUSE INTERNSHIP 
 PYTHON PROJECTS
 Task 1 : Music Player in Python
